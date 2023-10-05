@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Varona Tudela</h1>
 <h3 align="center">Software Engineer | C# | .NET</h3>
 
-- 🌱 I’m currently learning **Angular, Docker, Azure**
+- 🌱 I’m currently learning **Angular, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
